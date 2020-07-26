@@ -5,10 +5,10 @@ I'm a Software Engineer with Three years of experience facilitating cutting-edge
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a pair-to-pair Platform
+- 🌱 I’m currently learning how to build good stuff 😄
+- 👯 I’m looking to collaborate on any cool idea
+- 🤔 I’m looking for help with improving myself
 - 💬 Ask me about frontend Stuff
 - 📫 How to reach me: nonsodaniel07@gmail.com
 - 😄 Pronouns: He/Him
